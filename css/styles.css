@@ -650,11 +650,11 @@ padding: 24px;
  margin-left: auto;
  border-radius: 50%;
 }
+
 .modal-close-icon {
   color: #FFFFFF;
-
-
 }
+
 .modal-close:hover,
 .modal-close:focus {
   color: #404BBF;
